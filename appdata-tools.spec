@@ -6,6 +6,7 @@ License:	GPLv2+
 Group:		File tools
 Url:		http://people.freedesktop.org/~hughsient/appdata/
 Source0:	http://people.freedesktop.org/~hughsient/releases/%{name}-%{version}.tar.xz
+BuildRequires:	docbook-dtd43-xml
 BuildRequires:	docbook-style-xsl
 BuildRequires:	gettext
 BuildRequires:	intltool
