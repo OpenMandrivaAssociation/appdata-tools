@@ -1,6 +1,6 @@
 Summary:	Tools for AppData files
 Name:		appdata-tools
-Version:	0.1.7
+Version:	0.1.8
 Release:	1
 License:	GPLv2+
 Group:		File tools
@@ -15,6 +15,7 @@ BuildRequires:	pkgconfig(gdk-pixbuf-2.0)
 BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(libsoup-2.4)
 BuildRequires:	pkgconfig(libxslt)
+BuildRequires:	pkgconfig(appstream-glib)
 
 %description
 appdata-tools contains a command line program designed to validate AppData
