@@ -16,6 +16,7 @@ BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(libsoup-2.4)
 BuildRequires:	pkgconfig(libxslt)
 BuildRequires:	pkgconfig(appstream-glib)
+BuildRequires:	pkgconfig(libpng16)
 
 %description
 appdata-tools contains a command line program designed to validate AppData
