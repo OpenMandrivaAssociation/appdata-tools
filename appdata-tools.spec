@@ -1,7 +1,7 @@
 Summary:	Tools for AppData files
 Name:		appdata-tools
 Version:	0.1.8
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		File tools
 Url:		http://people.freedesktop.org/~hughsient/appdata/
